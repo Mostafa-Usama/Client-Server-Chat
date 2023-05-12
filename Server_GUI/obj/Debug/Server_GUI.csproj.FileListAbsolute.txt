@@ -1,0 +1,22 @@
+C:\Users\Dr Ali\Downloads\Prog 2019\Server\Server_GUI\bin\Debug\Server_GUI.exe.config
+C:\Users\Dr Ali\Downloads\Prog 2019\Server\Server_GUI\bin\Debug\Server_GUI.exe
+C:\Users\Dr Ali\Downloads\Prog 2019\Server\Server_GUI\bin\Debug\Server_GUI.pdb
+C:\Users\Dr Ali\Downloads\Prog 2019\Server\Server_GUI\obj\Debug\Server_GUI.csproj.AssemblyReference.cache
+C:\Users\Dr Ali\Downloads\Prog 2019\Server\Server_GUI\obj\Debug\Server_GUI.Form1.resources
+C:\Users\Dr Ali\Downloads\Prog 2019\Server\Server_GUI\obj\Debug\Server_GUI.Properties.Resources.resources
+C:\Users\Dr Ali\Downloads\Prog 2019\Server\Server_GUI\obj\Debug\Server_GUI.csproj.GenerateResource.cache
+C:\Users\Dr Ali\Downloads\Prog 2019\Server\Server_GUI\obj\Debug\Server_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Dr Ali\Downloads\Prog 2019\Server\Server_GUI\obj\Debug\Server_GUI.exe
+C:\Users\Dr Ali\Downloads\Prog 2019\Server\Server_GUI\obj\Debug\Server_GUI.pdb
+C:\Users\sfsf\Downloads\Server_GUI\bin\Debug\Server_GUI.exe.config
+C:\Users\sfsf\Downloads\Server_GUI\obj\Debug\Server_GUI.exe
+C:\Users\sfsf\Downloads\Server_GUI\obj\Debug\Server_GUI.pdb
+E:\University Material\4th year\Network Programming\Server_GUI\bin\Debug\Server_GUI.exe.config
+E:\University Material\4th year\Network Programming\Server_GUI\obj\Debug\Server_GUI.exe
+E:\University Material\4th year\Network Programming\Server_GUI\obj\Debug\Server_GUI.pdb
+E:\University Material\4th year\Network Programming\Server_GUI\obj\Debug\Server_GUI.csprojResolveAssemblyReference.cache
+E:\University Material\4th year\Network Programming\Server_GUI\obj\Debug\Server_GUI.ServerFrm.resources
+E:\University Material\4th year\Network Programming\Server_GUI\obj\Debug\Server_GUI.Properties.Resources.resources
+E:\University Material\4th year\Network Programming\Server_GUI\obj\Debug\Server_GUI.csproj.GenerateResource.Cache
+E:\University Material\4th year\Network Programming\Server_GUI\bin\Debug\Server_GUI.exe
+E:\University Material\4th year\Network Programming\Server_GUI\bin\Debug\Server_GUI.pdb
